@@ -1,20 +1,19 @@
-Toxicity Quiz
+# Toxicity Quiz
 
-A funny PyQt5 quiz that determines how toxic you are in online games.
+A funny PyQt5 quiz that determines **how toxic you are** in online games.
 
-Features
-- 3 humorous questions about typical toxic situations
+## Features
+- 3 humorous questions with funny toxic situations
 - Different toxicity levels — from "Saint" to "Toxic Natural Disaster"
-- Large font for comfortable reading
-- Simple and clean interface
+- Large font for comfortable use
+- Simple interface
+## How to Run
 
-How to Run
-
-1. Install dependencies
-
+### 1. Install PyQt5
+```bash
 pip install PyQt5
 
-2. Run the application
+2. Run the quiz
 
 python toxic_quiz.py
 Technologies
